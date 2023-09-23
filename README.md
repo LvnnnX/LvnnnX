@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/kokopandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/kokopandan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kokopandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/kokopandan" height="30" width="40" /></a>
 <a href="https://instagram.com/pande.dani13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pande.dani13" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lvnx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lvnx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCD_rIT3tIcWI6Z5FXCifKDg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lvnx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
