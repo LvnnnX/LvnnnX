@@ -22,8 +22,7 @@ I am a passionate student interested in Machine Learning and currently studying 
 - PyTorch  
 
 ## 📞 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/lvnnnx)  
-- [Twitter](https://twitter.com/lvnnnx)  
+- [LinkedIn](https://www.linkedin.com/in/kokopandan)   
 - [GitHub](https://github.com/LvnnnX)  
 
 I look forward to collaborating and connecting with like-minded individuals! Feel free to reach out!
